@@ -19,9 +19,11 @@ We use Flutter for fast, efficient and comfortable development.
 [![Typescript](https://img.shields.io/badge/-typescript-blue?color=4476C0&logo=typescript&logoColor=white&style=for-the-badge)]()
 
 [![Flutter](https://img.shields.io/badge/-Flutter-blue?color=7CC7F4&logo=flutter&logoColor=black&style=for-the-badge)]()
+[![Svelte](https://img.shields.io/badge/-Svelte%20Kit-orange?color=FF3E00&logo=svelte&logoColor=white&style=for-the-badge)]()
 [![React](https://img.shields.io/badge/-react-green?color=82D7F7&logo=react&logoColor=black&style=for-the-badge)]()
 
 [![Supabase](https://img.shields.io/badge/-supabase-green?color=5CB07F&logo=supabase&logoColor=white&style=for-the-badge)]()
+[![Deno](https://img.shields.io/badge/-Deno-black?color=black&logo=deno&style=for-the-badge)]()
 [![Node.js](https://img.shields.io/badge/-node.js-green?color=507D40&logo=node.js&logoColor=white&style=for-the-badge)]()
 [![Express](https://img.shields.io/badge/-express-green?color=black&logo=express&logoColor=white&style=for-the-badge)]()
 [![MongoDB](https://img.shields.io/badge/-mongodb-brightgreen?color=6CE975&logo=mongodb&logoColor=black&style=for-the-badge)]()
