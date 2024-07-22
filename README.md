@@ -31,7 +31,7 @@ Visit my website: [Pastel website](https://www.pastelcode.dev/).
 
 Application made for Mexican bank Bancrea to follow status of credits and upload required information about clients. It was made to verify user identity as well.
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/89/94/8f8994d0-c091-a9c2-4ab5-db3b5ce96231/58cff0ec-61e7-4822-97cd-3ed14d98f54c_02_simulacion.jpg/600x0w.webp" alt="CrediBancrea credit amount view" width="150" style="display: inline-block;" >
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/89/94/8f8994d0-c091-a9c2-4ab5-db3b5ce96231/58cff0ec-61e7-4822-97cd-3ed14d98f54c_02_simulacion.jpg/600x0w.webp" alt="CrediBancrea credit amount view" width="150" style="display: inline;" >
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6f/41/a2/6f41a20d-59e1-603e-5959-5223f4b41130/f1e81872-03a3-4110-8b52-2f71dec42fe8_15_Firma_de_peticion.jpg/600x0w.webp" alt="CrediBancrea petition signing view" width="150" >
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a4/6a/b5/a46ab5c5-db54-598a-debc-67709e00fc1f/f8e02319-31b9-40b7-beac-1190dbd43092_10_Validacion_de_informacion_y_Documentacion.jpg/600x0w.webp" alt="CrediBancrea stepper view" width="150" >
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/dc/27/6ddc27d8-a47f-983f-3f47-a57399d69f15/d3fac888-9dbe-4517-bc24-b7b9a6609e53_11_Identificacion_Oficial.jpg/600x0w.webp" alt="CrediBancrea INE upload view" width="150" >
