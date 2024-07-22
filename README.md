@@ -1,3 +1,9 @@
+<style>
+  img {
+    display: inline-block;
+  }
+</style>
+
 # Hello everyone 🙌🏻
 
 ![Samuel Marroquín](./pastel-cover.png)
