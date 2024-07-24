@@ -4,7 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/pastelcode?style=social)
 
-![Guatemala](https://img.shields.io/badge/-Guatemala-lightgrey?color=blue&style=for-the-badge)
 [![Guatemala](https://img.shields.io/badge/-Guatemala-lightgrey?color=blue&style=for-the-badge)]()
 [![Flutter lover](https://img.shields.io/badge/-Flutter%20lover-red?color=d90429&style=for-the-badge)]()
 
