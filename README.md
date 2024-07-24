@@ -1,13 +1,13 @@
 # Hello everyone 🙌🏻
 
-![Samuel Marroquín](./pastel-cover.png)
+![Samuel Marroquín](images/pastel-cover.png)
 
 ![GitHub followers](https://img.shields.io/github/followers/pastelcode?style=social)
 
 [![Guatemala](https://img.shields.io/badge/-Guatemala-lightgrey?color=blue&style=for-the-badge)]()
 [![Flutter lover](https://img.shields.io/badge/-Flutter%20lover-red?color=d90429&style=for-the-badge)]()
 
-This is Samuel Marroquín, founder of Pastel. In 2022 I decided to start working on what I really love: programming <3
+This is Samuel Marroquín from Guatemala 🇬🇹, founder of Pastel. In 2022 I decided to start working on what I really love: programming <3
 
 Currently working on [NebuIA](https://nebuia.com/), and independent projects on Pastel, my own company.
 
@@ -30,6 +30,8 @@ Visit my website: [Pastel website](https://www.pastelcode.dev/).
 ## CrediBancrea
 
 Application made for Mexican bank Bancrea to follow status of credits and upload required information about clients. It was made to verify user identity as well.
+
+Built with Flutter.
 
 <table style="width: 100%">
   <tr>
@@ -57,6 +59,9 @@ Application made for Mexican bank Bancrea to follow status of credits and upload
 </table>
 
 ## NebuIA Demo
+
+NebuIA demo application to show different use cases of KYC and identity verification.
+Built with Flutter.
 
 <table style="width: 100%">
   <tr>
@@ -87,3 +92,7 @@ Application made for Mexican bank Bancrea to follow status of credits and upload
     </td>
   </tr>
 </table>
+
+## Telec
+
+# Contributions
